@@ -1,5 +1,5 @@
 {
-  "name": "bright-data-serp-api-nodejs-project",
+  "name": "@brightdata/bright-data-serp-api-nodejs-project",
   "version": "1.0.0",
   "description": "Bright Data SERP API Nodejs boilerplate code",
   "main": "index.js",
